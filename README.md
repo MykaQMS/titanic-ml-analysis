@@ -121,12 +121,4 @@ python main.py
 ```
 
 ---
-
-## 📚 Próximos Passos de Estudo
-
-- [ ] Experimentar otimização avançada de hiperparâmetros com `GridSearchCV`.
-- [ ] Explorar algoritmos de *Ensemble* avançados como *Voting Classifier* e *Stacking*.
-- [ ] Aplicar estes aprendizados em novos desafios do Kaggle com dados tabulares e de séries temporais.
-
----
 *Desenvolvido por Mykael como parte da minha jornada de estudos em Machine Learning.* 🚀
