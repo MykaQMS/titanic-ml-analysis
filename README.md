@@ -102,8 +102,8 @@ ML - Titanic/
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/ML-Titanic.git
-cd ML-Titanic
+git clone https://github.com/MykaQMS/titanic-ml-analysis.git
+cd titanic-ml-analysis
 ```
 
 ### 2. Instalar as Bibliotecas Necessárias
